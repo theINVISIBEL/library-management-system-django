@@ -1,13 +1,13 @@
 # 📚 Library Management System - نظام إدارة مكتبة
 
+**EN:** A simple and elegant Library Management System built with Django.  
+This project enables users to manage books, track their status (Available, Sold, Rented), view real-time statistics, and organize books into categories.  
+Designed using AdminLTE and integrated with Chart.js for visualization. Ideal for educational or small library use.
 
+**AR:** نظام إدارة مكتبة بسيط وأنيق تم تطويره باستخدام Django.  
+يسمح للمستخدمين بإضافة الكتب، تتبع حالتها (متاحة، مباعة، مستأجرة)، مشاهدة الإحصائيات الحية، وتنظيمها حسب التصنيفات.  
+تم تصميمه باستخدام AdminLTE مع رسوم بيانية تفاعلية عبر Chart.js. مناسب للتعليم أو المكتبات الصغيرة.
 
-# 📚 نظام إدارة مكتبة - Library Management System (Django)
-🇬🇧 Description (English):
-A simple and elegant Library Management System built with Django. This project enables users to manage books, track their status (Available, Sold, Rented), view real-time statistics, and organize books into categories. Designed using AdminLTE and integrated with Chart.js for visualization. Ideal for educational or small library use.
-
-                                                                                                                                                  🇸🇦 الوصف (بالعربية) 
-نظام إدارة مكتبة بسيط وأنيق مبني باستخدام Django. يتيح للمستخدمين إدارة الكتب، تتبع حالتها (متاحة، مباعة، مستأجرة)، عرض الإحصائيات مباشرة، وتنظيم الكتب حسب التصنيفات. يتميز بتصميم احترافي باستخدام AdminLTE ويدعم الرسوم البيانية بواسطة Chart.js. مناسب للمكتبات الصغيرة أو لأغراض تعليمية.
 
 ## 🇸🇦 بالعربية:
 
